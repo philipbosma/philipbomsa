@@ -1,4 +1,4 @@
-# Hi, I'm Philip 👋
+# Hello, I'm Philip 👋
 
 I'm an **E-commerce Product Operations and Catalog Specialist** with several years of experience supporting complex product catalogs, configurable product ecosystems, and large-scale e-commerce platforms.
 
